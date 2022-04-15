@@ -57,10 +57,13 @@ a 1-3-2-4 altenation.
 Who made this?
 --------------
 
-- Original author: @Microsoft (yes).
-- Semaphore design: @MingcongBai.
-- Comments: Various community contributors. Special thanks goes to...
-    - @eatradish, for her comments and a animation sequence
-generator (it's happening, right?).
-    - @CamberLoid, @KexyBiscuit, @Neruthes, @rickliu2000, @ziyao233 for their
-invaluable critiques.
+- Original author: [@Microsoft](https://github.com/Microsoft) (yes).
+- Semaphore design: [@MingcongBai](https://github.com/MingcongBai).
+- Comments: Various community contributors. With special thanks to...
+    - [@eatradish](https://github.com/eatradish), for her comments and an
+    animation sequence generator (it's happening, right?).
+    - [@CamberLoid](https://github.com/CamberLoid),
+    [@KexyBiscuit](https://github.com/KexyBiscuit),
+    [@Neruthes](https://github.com/Neruthes),
+    [@rickliu2000](https://github.com/rickliu2000),
+    [@ziyao233](https://github.com/ziyao233) for their invaluable critiques.
