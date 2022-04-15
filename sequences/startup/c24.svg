@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1200"
+   viewBox="0 0 507.99998 317.5"
+   version="1.1"
+   id="svg358"
+   sodipodi:docname="c24.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview360"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:snap-bbox="false"
+     inkscape:snap-global="true"
+     inkscape:zoom="1.3243113"
+     inkscape:cx="801.92624"
+     inkscape:cy="708.67022"
+     inkscape:window-width="2560"
+     inkscape:window-height="1491"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs355">
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path1389" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="DotL"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotL"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,5.92,0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1432" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-52.916667,-106.36248)">
+    <path
+       id="rect532"
+       style="fill:#e5e5e5;fill-opacity:0;stroke-width:0.108439"
+       d="m 227.54166,304.79998 h 39.6875 v 4.23333 h -39.6875 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="rect532-3"
+       style="fill:#198bd7;fill-opacity:0.1;stroke-width:0.108439"
+       d="m 267.22916,304.79998 h 39.6875 v 4.23333 h -39.6875 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="rect532-3-9"
+       style="fill:#eab93e;fill-opacity:0.60000002;stroke-width:0.108439"
+       d="m 306.91666,304.79998 h 39.6875 v 4.23333 h -39.6875 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="rect532-2"
+       style="fill:#cc1919;fill-opacity:0.89999998;stroke-width:0.108439"
+       d="m 386.29166,309.03331 h -39.6875 v -4.23333 h 39.6875 z"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+</svg>
