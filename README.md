@@ -30,7 +30,7 @@ original design. Based on different stages they represent, there are a total of
 three semaphore patterns and five total schema.
 
 We have made some [video samples](DEMO.md) to demonstrate all of our semaphore
-schema. Play on loop,
+schema. Download and play on loop.
 
 ### Semaphore: System Startup
 
