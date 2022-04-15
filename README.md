@@ -54,8 +54,8 @@ Starting from the 4th block, as it reaches 60% opacity, the third block gains
 
 *Used by: System Shutdown.*
 
-This semaphore follows the 60%/10% pattern, though the sequence becomes one of
-a 1-3-2-4 altenation.
+This semaphore follows the 60%/10% pattern, though the pattern is instead an
+1-3-2-4 altenation.
 
 Who made this?
 --------------
