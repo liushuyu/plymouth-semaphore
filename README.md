@@ -29,6 +29,9 @@ Good question, the sequences are fairly simple, taking up only 35 frames in the
 original design. Based on different stages they represent, there are a total of
 three semaphore patterns and five total schema.
 
+We have made some [video samples](DEMO.md) to demonstrate all of our semaphore
+schema. Play on loop,
+
 ### Semaphore: System Startup
 
 *Used by: System Startup, LiveKit/RescueKit Startup, S4 (Hibernation)
