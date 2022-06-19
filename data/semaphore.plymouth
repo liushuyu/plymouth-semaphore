@@ -1,0 +1,10 @@
+[Plymouth Theme]
+Name=Semaphore
+Name[zh_CN]=灯语
+Description=Semaphore-inspired system status animation sequences
+Description[zh_CN]=形似信号灯语的系统状态动画集
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/semaphore
+ScriptFile=/usr/share/plymouth/themes/semaphore/semaphore.script
