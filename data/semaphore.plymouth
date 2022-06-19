@@ -1,8 +1,10 @@
 [Plymouth Theme]
 Name=Semaphore
 Name[zh_CN]=灯语
+Name[zh_TW]=號誌
 Description=Semaphore-inspired system status animation sequences
 Description[zh_CN]=形似信号灯语的系统状态动画集
+Description[zh_TW]=以交通號誌爲靈感的狀態動畫集
 ModuleName=script
 
 [script]
