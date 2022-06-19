@@ -1,0 +1,12 @@
+[Plymouth Theme]
+Name=Semaphore (LiveKit)
+Name[zh_CN]=灯语 (LiveKit)
+Name[zh_TW]=號誌 (LiveKit)
+Description=Semaphore-inspired system status animation sequences (LiveKit)
+Description[zh_CN]=形似信号灯语的系统状态动画集 (LiveKit)
+Description[zh_TW]=以交通號誌爲靈感的狀態動畫集 (LiveKit)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/livekit
+ScriptFile=/usr/share/plymouth/themes/livekit/livekit.script
